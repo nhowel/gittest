@@ -1,6 +1,7 @@
 #CodeBook
 
-This describes the manipulation and summarization of data represented in tidyData.txt, written with run_analysis.R
+This describes the manipulation and summarization of data represented in tidyData.txt, written with run_analysis.R.
+
 1. Raw data is downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 (For more information on this dataset see <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>)
 2. This data is loaded into R. 
@@ -11,7 +12,8 @@ This describes the manipulation and summarization of data represented in tidyDat
 7. A new tidy data set is created listing the mean of each new variable from each subject and activity type. 
 8. This new data set is written to "tidyData.txt".
 
-The six activities are: 
+The six activities are:
+
 1.   WALKING
 2.   WALKING_UPSTAIRS
 3.   WALKING_DOWNSTAIRS
